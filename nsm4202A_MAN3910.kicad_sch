@@ -2199,12 +2199,6 @@
 		)
 	)
 	(junction
-		(at 43.18 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "136c4972-4ea5-44e7-beef-92612930b3e9")
-	)
-	(junction
 		(at 43.18 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2241,12 +2235,6 @@
 		(uuid "b1303bbf-4a46-460c-8437-6ca89e5aadb2")
 	)
 	(junction
-		(at 33.02 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb3f7acf-33ec-4c49-a781-eb926c0009c0")
-	)
-	(junction
 		(at 224.79 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2257,12 +2245,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5b302e0-66ca-4cb1-ba22-700dd61421ef")
-	)
-	(junction
-		(at 187.96 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d96b4926-2bc2-40d1-a8bc-f010d9f3b19a")
 	)
 	(junction
 		(at 40.64 105.41)
@@ -2324,16 +2306,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 129.54) (xy 29.21 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07f7e3fa-cf46-47c2-96e9-83ee37fee8a7")
-	)
-	(wire
-		(pts
 			(xy 99.06 147.32) (xy 99.06 156.21)
 		)
 		(stroke
@@ -2374,16 +2346,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 123.19) (xy 187.96 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b7f0e70-40f5-4347-987a-286883a027bc")
-	)
-	(wire
-		(pts
 			(xy 78.74 156.21) (xy 78.74 162.56)
 		)
 		(stroke
@@ -2404,7 +2366,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 144.78) (xy 43.18 143.51)
+			(xy 43.18 137.16) (xy 43.18 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2474,7 +2436,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 123.19) (xy 184.15 123.19)
+			(xy 184.15 123.19) (xy 204.47 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2511,16 +2473,6 @@
 			(type default)
 		)
 		(uuid "20cf0b73-887d-41ca-a879-73e26e3c60ac")
-	)
-	(wire
-		(pts
-			(xy 43.18 143.51) (xy 43.18 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b238989-f20b-4803-a0a6-6748334eb4bc")
 	)
 	(wire
 		(pts
@@ -2611,16 +2563,6 @@
 			(type default)
 		)
 		(uuid "496fdf7b-1d58-4125-9891-9411fbce859e")
-	)
-	(wire
-		(pts
-			(xy 182.88 99.06) (xy 195.58 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49d3b059-a5c7-4470-a0cc-f426aae0b1ae")
 	)
 	(wire
 		(pts
@@ -2754,16 +2696,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 129.54) (xy 33.02 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ee99eb1-f687-453d-9bbe-098dea21cf5a")
-	)
-	(wire
-		(pts
 			(xy 219.71 96.52) (xy 219.71 100.33)
 		)
 		(stroke
@@ -2801,16 +2733,6 @@
 			(type default)
 		)
 		(uuid "722f0c5b-e59d-4950-8a0c-178489863c08")
-	)
-	(wire
-		(pts
-			(xy 198.12 138.43) (xy 198.12 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74263864-c7d8-41b0-92d7-dfbb6e9c0156")
 	)
 	(wire
 		(pts
@@ -2904,16 +2826,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 137.16) (xy 198.12 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97625dda-3264-48f3-856d-dcf15ef4c587")
-	)
-	(wire
-		(pts
 			(xy 74.93 162.56) (xy 69.85 162.56)
 		)
 		(stroke
@@ -2944,7 +2856,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 129.54) (xy 33.02 129.54)
+			(xy 29.21 129.54) (xy 49.53 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3021,16 +2933,6 @@
 			(type default)
 		)
 		(uuid "bb8c7e6f-15f6-43d8-8c31-2676ab2d83e6")
-	)
-	(wire
-		(pts
-			(xy 33.02 143.51) (xy 43.18 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc451369-0dcb-4c01-84da-9d626428f15e")
 	)
 	(wire
 		(pts
@@ -3261,26 +3163,6 @@
 			(type default)
 		)
 		(uuid "fc84d12c-9349-4707-b041-7978941f2701")
-	)
-	(wire
-		(pts
-			(xy 204.47 123.19) (xy 187.96 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd5c220a-237e-43c3-b51e-6a76d523f93c")
-	)
-	(wire
-		(pts
-			(xy 195.58 92.71) (xy 195.58 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe0795e4-6125-49df-a45a-26d5526f72f5")
 	)
 	(wire
 		(pts
@@ -4254,68 +4136,6 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 195.58 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0374b7ef-232b-4079-bd79-7dd45fb75a87")
-		(property "Reference" "#PWR013"
-			(at 195.58 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 195.58 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 195.58 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 195.58 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4e0d7c15-f5f3-4754-8e92-166556c22185")
-		)
-		(instances
-			(project "nsm4202A_MAN3910"
-				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
 		(at 40.64 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4434,75 +4254,6 @@
 			(project "nsm4202A_MAN3910"
 				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 33.02 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "101edbf9-d1f6-4aa7-97c5-ae8e4be81558")
-		(property "Reference" "C2"
-			(at 36.83 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 36.83 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 33.9852 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 33.02 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0b53dd4f-06c2-43d0-a90e-bc3e723af5a5")
-		)
-		(pin "1"
-			(uuid "004dfe67-b045-4600-9788-b799e65b96f8")
-		)
-		(instances
-			(project "nsm4202A_MAN3910"
-				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
-					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -5066,68 +4817,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 198.12 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4b48c24d-d97d-41af-8796-de63d0841600")
-		(property "Reference" "#PWR08"
-			(at 198.12 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 198.2343 142.7544 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 198.12 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 198.12 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 198.12 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0a62acae-c342-4898-a97f-f654a0b9d57b")
-		)
-		(instances
-			(project "nsm4202A_MAN3910"
-				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 43.18 115.57 0)
 		(unit 1)
@@ -5585,75 +5274,6 @@
 			(project "nsm4202A_MAN3910"
 				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 182.88 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79f0d045-78b6-4f43-b4c7-c0c656929bca")
-		(property "Reference" "C5"
-			(at 186.69 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 186.69 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 183.8452 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 182.88 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 182.88 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "57d10f0c-ac6c-4119-9f05-c6d4bf93a54d")
-		)
-		(pin "1"
-			(uuid "88cd4460-7de9-4917-9374-a667b3622aed")
-		)
-		(instances
-			(project "nsm4202A_MAN3910"
-				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
-					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -6242,75 +5862,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 187.96 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c8dc085-5ac6-40f5-9655-30a2a734cbe4")
-		(property "Reference" "C6"
-			(at 191.77 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 191.77 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 188.9252 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 187.96 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 187.96 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d45780ef-6f85-4fd8-a3a0-ed1bbe0247f5")
-		)
-		(pin "1"
-			(uuid "02d6e2f5-c584-4b2e-bd48-653602f71dd6")
-		)
-		(instances
-			(project "nsm4202A_MAN3910"
-				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
 		(at 85.09 184.15 90)
 		(unit 1)
@@ -6665,68 +6216,6 @@
 			(project "nsm4202A_MAN3910"
 				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
 					(reference "IC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 182.88 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c9a48fe7-a44d-4caa-be44-9e97cd0bf4e8")
-		(property "Reference" "#PWR06"
-			(at 182.88 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 182.9943 111.0044 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 182.88 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "90c46f75-e5ca-41a2-b2d9-8ac12869e4e3")
-		)
-		(instances
-			(project "nsm4202A_MAN3910"
-				(path "/eb004479-09ab-49d3-9426-b72cf0ae4cc5"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
